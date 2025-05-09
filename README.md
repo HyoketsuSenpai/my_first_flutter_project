@@ -58,9 +58,6 @@ Make sure you have the following installed:
 This app follows the official Flutter Codelab tutorial:
 👉 [https://docs.flutter.dev/get-started/codelab](https://docs.flutter.dev/get-started/codelab)
 
-## ✨ Screenshots
-
-*You can add screenshots here once the UI is running.*
 
 ## 📄 License
 
